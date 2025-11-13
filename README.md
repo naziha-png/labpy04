@@ -1,5 +1,4 @@
-
-# 🧩 Praktikum 4 – List (Bahasa Pemrograman)
+# 🧩Praktikum 4 – List (Bahasa Pemrograman)
 
 ## 📘 Deskripsi
 Modul ini membahas tentang penggunaan **List** pada Python — mulai dari membuat, mengakses, mengubah, menambah, menggabungkan list, hingga membuat program untuk menambahkan data mahasiswa menggunakan list dan perulangan.
